@@ -1,0 +1,13 @@
+Accès base de donées des ventes :
+-> analyser les données
+-> réaliser une présentation, cependant les données
+de l'entreprise ne seront disponibles qu'à partir de
+Lundi 07 Novembre 2022.
+
+=> mettre en place la première brique pour l'algorithme
+de classement de recherche google basé sur les chaines
+de Markov
+=> et également un outil de prédiction basée sur des
+données d'appartement.
+
+
